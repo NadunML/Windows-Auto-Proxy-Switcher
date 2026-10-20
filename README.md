@@ -2,7 +2,7 @@
 
 A lightweight PowerShell utility that automatically enables or disables the Windows system proxy based on the currently connected Wi-Fi network (SSID).
 
-Pre-configured for **Sabaragamuwa University of Sri Lanka (SUSL)** campus networks (`SUSL_Student_Wi-Fi` and `Student wifi @ FOT`), and easily customizable for any university or corporate network.
+Pre-configured for **Sabaragamuwa University of Sri Lanka (SUSL)** campus network (`SUSL_Student_Wi-Fi`), and easily customizable for any university or corporate network.
 
 ## Features
 - **Zero Dependencies:** Written in native Windows PowerShell.
